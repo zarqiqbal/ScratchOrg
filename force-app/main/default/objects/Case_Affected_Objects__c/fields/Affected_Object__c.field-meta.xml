@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Affected_Object__c</fullName>
+    <externalId>false</externalId>
+    <label>Affected Object</label>
+    <referenceTo>Affected_Object__c</referenceTo>
+    <relationshipLabel>Affected Object Cases</relationshipLabel>
+    <relationshipName>Affected_Object_Cases</relationshipName>
+    <relationshipOrder>1</relationshipOrder>
+    <reparentableMasterDetail>true</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
